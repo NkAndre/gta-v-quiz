@@ -17,7 +17,11 @@ Este projeto utiliza PHP e **não funciona apenas abrindo o arquivo no navegador
 3. Copie a pasta do projeto para dentro do : htdocs que fica na pasta xamp
 
 4. ## 🎯 Funcionalidades
+   
 - Sistema de perguntas e respostas
+- tela de login
+- - Modal inicial para inserção do nome do jogador antes do início do quiz
 - Pontuação final
 - Ranking salvo em arquivo
 - Uso de sessões para controle do usuário
+- 
